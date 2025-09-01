@@ -21,6 +21,7 @@ It is implemented in both command-line and GUI (Tkinter) versions, making it beg
 🖥️ Two versions:
 
 CLI (command-line based).
+
 GUI (Tkinter based).
 
 🎓 Great for beginners to learn time handling, Tkinter, and libraries in Python.
@@ -32,8 +33,11 @@ Language: Python
 
 Libraries:
 datetime – Time handling
+
 time – Waiting mechanism
+
 playsound – Play alarm sound
+
 tkinter – GUI version
 
 
