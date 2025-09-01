@@ -6,26 +6,37 @@ Alarm-Clock-using-python
 ⏰ Alarm Clock in Python is a simple project that lets users set alarms with a chosen time. It notifies with sound when the alarm rings. Built using Python with support for both command-line and GUI (Tkinter), this project demonstrates time handling, scheduling, and user interaction in Python. README.md
 
 ⏰ Alarm Clock – Python Project
+
 📖 Overview
+
 The Alarm Clock is a Python project that allows users to set alarms and receive notifications when the alarm time is reached.
 It is implemented in both command-line and GUI (Tkinter) versions, making it beginner-friendly and practical.
 
 🚀 Features
+
 ⏱️ Set custom alarm time (HH:MM:SS format).
 
 🔔 Plays sound when alarm rings.
 
 🖥️ Two versions:
+
 CLI (command-line based).
 GUI (Tkinter based).
+
 🎓 Great for beginners to learn time handling, Tkinter, and libraries in Python.
+
+
 🛠️ Tech Stack
+
 Language: Python
+
 Libraries:
 datetime – Time handling
 time – Waiting mechanism
 playsound – Play alarm sound
 tkinter – GUI version
+
+
 📂 Project Structure
 project/ │── alarm_clock.py # Command-line version │── alarm_clock_gui.py # Tkinter GUI version │── alarm.mp3 # Alarm sound file │── README.md
 
